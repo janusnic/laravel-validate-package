@@ -1,0 +1,22 @@
+{
+    "name": "janusnic/validation",
+    "description": "Easy validation for Laravel applications.",
+
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Janus Nicon",
+            "email": "janusnic@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "illuminate/support": "^5.4"
+    },
+
+    "require-dev": {
+
+    },
+    
+    "minimum-stability": "dev"
+}
